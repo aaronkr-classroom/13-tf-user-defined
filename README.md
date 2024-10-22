@@ -1,7 +1,6 @@
-# 7-svm-trees-forests
+# 8-ensemble-dims
 
-IPYNB notebooks for UT Data Science (7주차)
+IPYNB notebooks for UT Data Science (8주차)
 
-1. 5장 - 서포트 벡터 머신
-2. 6장 - 결정 트리
-3. 7장 - 앙상블 학습과 랜덤 포레스트
+1. 7장 - 앙상블 학습과 랜덤 포레스트
+2. 8장 - 차원 축소
