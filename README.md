@@ -1,5 +1,5 @@
-# 11-keras-nn
+# 12-cnn-training
 
-IPYNB notebooks for UT Data Science (11주차)
+IPYNB notebooks for UT Data Science (12주차)
 
-10장 – 케라스를 사용한 인공 신경망 소개
+11장 – 심층 신경망 훈련하기
