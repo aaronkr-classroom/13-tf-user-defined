@@ -1,5 +1,6 @@
-# 12-cnn-training
+# 13-tf-user-defined
 
-IPYNB notebooks for UT Data Science (12주차)
+IPYNB notebooks for UT Data Science (13주차)
 
-11장 – 심층 신경망 훈련하기
+12장 – 텐서플로를 사용한 사용자 정의 모델과 훈련
+13장 - 텐서플로에서 데이터 적재와 전처리하기
